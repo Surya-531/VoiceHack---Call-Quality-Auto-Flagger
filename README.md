@@ -1,5 +1,5 @@
 # CareCaller Hackathon 2026 — Problem 1: Call Quality Auto-Flagger
-### Team: CIT Synergits
+### Team: TerrificTrio
 
 ---
 
